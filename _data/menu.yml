@@ -1,0 +1,19 @@
+entries:
+  - title: me
+    entries:
+    - title: now
+      url: now
+    - title: github
+      url: https://github.com/hackerlizard
+    - title: itch
+      url: https://hackerlizard.itch.io/
+
+  - title: misc
+    post_list: true    
+
+#  - title: tags
+#    post_list:
+#      category: foo
+#      show_more: true
+#      show_more_text: see more posts...
+#      show_more_url: foo-archive.html
