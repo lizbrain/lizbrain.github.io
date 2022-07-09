@@ -1,0 +1,226 @@
+---
+layout: page
+title: games i've played
+---
+
+incomplete. i'm bad at keeping track
+
+2022
+
+- Slime Rancher: Plortable Edition
+- Pokemon Legends: Arceus
+- Tux and Fanny
+- Mario Kart 8 Deluxe
+- Captain Toad: Treasure Tracker
+- Kirby and the Forgotten Land
+- Mon Amour
+- KUUKIYOMI: Consider It
+- LOST EGG 2: Be together
+- Animal Crossing: New Horizons
+- Dragon Quest XI S: Echoes of an Elusive Age
+- Take Off - The Flight Simulator
+- Haven Park
+- Mysteries Under Lake Ophelia
+- Lumbear Jack
+- Chicory: A Colorful Tale
+- Grand Mountain Adventure: Wonderlands
+- Mario Strikers: Battle League
+- TASOMACHI:Behind the Twilight
+- Supaplex
+- Arrest of a stone Buddha
+- Buildings Have Feelings Too!
+- Grapple Dog
+- Button City
+- Rogue Bit
+- Cat Quest
+
+
+2021
+- moon: remix rpg adventure
+- WarioWare: Get It Together
+- Ace Angler: Nintendo Switch Version
+- Yoku's Island Express
+- Contact
+- Mario Tennis Aces
+- Ace Attorney Chronicles
+- Cozy Grove
+- Baldo 
+- wurdweb
+- Legend of Zelda: Skyward Sword
+- The Unfinished Swan
+- 428: Shibuya Scramble
+- Fancade
+- Mini Roadways
+- Super Mario Party
+- Pokemon Sword + Expansion
+- Xenoblade Chronicles
+- Hyrule Warriors: Age of Calamity
+- Paper Mario: The Origami King
+- Game Builder Garage
+- Spiritfarer
+- Dewy's Adventure
+- Elebits
+- Monster Hunter Stories
+- Oceanhorn 2
+- Taiko Pop Tap
+- NUTS
+- World's End Club
+- Outlanders
+- Gnosia
+- Nostalgic Train
+- Pokémon Unite
+- Sky: Children of Light
+- Miitopia
+- Pokémon Snap
+- Sludge Life
+- Pokemon Shining Pearl
+- Little Inferno
+- Bonito Days
+- The Kids We Were
+- Doki Doki Literature Club
+- Unpacking
+- The Battle Cats Unite!
+- Grow Song of the Evertree
+- Toem
+- Fuser
+- Happy Birthdays
+- Lonely Mountains: Downhill
+- Cozy Grove
+- Hungry Shark World
+- Going Under
+- Fight Crab
+- Super Monkey Ball Banana Mania
+- Fisti-Fluffs
+- Garden Paws
+
+2020
+- Pan pan
+- Cattails
+- The Big Journey
+- Stardew Valley
+- No Thing
+- Pokemon Sword
+- WarioWare: Gold
+- Super Smash Bros. Ultimate
+- Kuukiyomi: Consider It!
+- OVIVO
+- Ring Fit Adventure
+- Mario Maker 2
+- Pokemon Mystery Dungeon (demo)
+- Animal Crossing
+- Animal Crossing: Pocket Camp
+- Animal Crossing: New Horizons
+- Mario Kart 8 Deluxe
+- Billy Hatcher
+- Attack of the Friday Monsters
+- Boku no Natsuyasumi Portable
+- Okami HD
+- Super Mario 3D Land
+- Super Mario 3D World + Bowser's Fury
+- moon: remix rpg adventure
+- Super Mario 64
+- Super Mario Sunshine
+- Super Mario Galaxy
+- Deadly Premonition
+- What the Golf
+- Nintendo Labo
+- Super Mario Bros 35
+- Genshin Impact
+- Wide Ocean Big Jacket
+- I Am Dead
+- A Short Hike
+- Among Us
+- Pikmin 3 Deluxe
+- Luigi's Mansion 3
+- Asphalt 9
+- Macbat 64
+- Pixel Junk Monsters 2
+- Old Man's Journey
+- Calico
+- Cruel Bands Career
+
+2019
+- Night in the Woods
+- Firewatch
+- Diablo 3
+- Yonder: The Cloud Catcher Chronicles
+- Yooka Laylee
+- Super Mario 64
+- Knight Terrors
+- Pikuniku
+- Downwell
+- Kami 2
+- Wonder Boy: The Dragon's Trap
+- The Legend of Zelda
+- Bioshock
+- Olliolli
+- Minecraft
+- The World Ends With You
+- Gone Home
+- Reigns: Kings and Queens
+- Baba is You
+- Ittle Dew 2
+- The Legend of Zelda: Minish Cap
+- Yoshi's Crafted World
+- Cuphead
+- Truberbrook
+- The Legend of Zelda: Breath of the Wild VR
+- Boxboy + Boxgirl
+- Gato Roboto
+- Super Mario Bros U Deluxe
+- Moonlighter
+- Katamari Damacy Reroll
+- Crypt of the Necrodancer
+- Cadence of Hyrule
+- Mini Metro
+- Machinarium
+- Splatoon 2
+- Animal Crossing: Pocket Camp
+- Me and My Katamari
+- Mario Maker 2
+- Amazing Katamari Damacy
+- Panel de Pon
+- Harvest Moon: Story of Seasons
+- Marvel Ultimate Alliance
+- Dragon Quest Builders 2
+- Jax and Daxter
+- Dr. Mario World
+- Taiko no Tatsujin: Drum and Fun
+- Tekken 7
+- What Remains of Edith Finch
+- Human Resource Machine
+- 7 Billion Humans
+- Soulcalibur 6
+- Journey
+- Link's Awakening
+- Untitled Goose Game
+- Sayonara Wild Hearts
+- Rayman Run
+- Wilmot's Warehouse
+- Wuppo
+- New Super Lucky's Tale
+- Ninjin: Clash of Carrots
+- Wattam
+
+2018
+- The Binding of Isaac: Afterbirth+
+- Captain Toad: Treasure Tracker
+- Celeste
+- Dark Souls: Remastered
+- Donkey Kong Country: Tropical Freeze
+- Donut County
+- Hollow Knight
+- Lego Harry Potter Collection
+- Mario + Rabbids: Kingdom Battle
+- Minit
+- Night in the Woods
+- Okami HD
+- Overcooked! 2
+- Owlboy
+- Rayman Legends Definitive Edition
+- Return of the Obra Dinn
+- Stardew Valley
+- Super Mario Party
+- Super Smash Bros Ultimate
+- Undertale
+- Wizard of Legend
