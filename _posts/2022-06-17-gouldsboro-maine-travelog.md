@@ -2,7 +2,6 @@
 layout: post
 title: gouldsboro maine travelog
 category: travelog
-slug: 20220617
 ---
 
 ![img](images/travelog/20220617/1.JPG)
