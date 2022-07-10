@@ -13,9 +13,9 @@ entries:
 
   - title: pages
     entries:
-    - title: video game list
+    - title: video games i've played
       url: games
-    - title: book list
+    - title: books i've read
       url: books
     - title: coffee recipe
       url: v60
