@@ -11,16 +11,16 @@ entries:
   - title: posts
     post_list: true  
 
-  # - title: pages
-  #   entries:
-  #   - title: video game list
-  #     url: games
-  #   - title: book list
-  #     url: books
-  #   - title: coffee recipe
-  #     url: v60
-  #   - title: portland maine guide
-  #     url: maine-guide
+  - title: pages
+    entries:
+    - title: video game list
+      url: games
+    - title: book list
+      url: books
+    - title: coffee recipe
+      url: v60
+    - title: portland maine guide
+      url: maine-guide
 
   # - title: pages
   #   entries:
