@@ -20,19 +20,19 @@ entries:
   #   - title: stuff
   #     url: stuff
 
-#   - title: blog posts
-#     post_list:
-#       limit: 5
-#       show_more: true
-#       show_more_text: see all...
-#       show_more_url: archive.html
+  - title: blog posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: see all...
+      show_more_url: archive.html
 
-# - title: travelog
-#     post_list:
-#       limit: 5
-#       show_more: true
-#       show_more_text: see all...
-#       show_more_url: travelog-archive.html
+- title: travelog
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: see all...
+      show_more_url: travelog-archive.html
 
 #  - title: tags
 #    post_list:
