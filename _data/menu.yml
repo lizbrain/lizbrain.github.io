@@ -8,8 +8,8 @@ entries:
     - title: "itch.io"
       url: https://hackerlizard.itch.io/
 
-    - title: misc
-      post_list: true  
+  - title: misc
+    post_list: true  
 
   # - title: pages
   #   entries:
@@ -25,14 +25,14 @@ entries:
       limit: 5
       show_more: true
       show_more_text: see all...
-      show_more_url: archive.html
+      show_more_url: archive
 
 - title: travelog
     post_list:
       limit: 5
       show_more: true
       show_more_text: see all...
-      show_more_url: travelog-archive.html
+      show_more_url: travelog-archive
 
 #  - title: tags
 #    post_list:
