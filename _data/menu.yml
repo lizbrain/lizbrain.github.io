@@ -5,11 +5,31 @@ entries:
       url: now
     - title: github
       url: https://github.com/hackerlizard
-    - title: itch
+    - title: itch.io
       url: https://hackerlizard.itch.io/
 
-  - title: misc
-    post_list: true    
+  # - title: pages
+  #   entries:
+  #   - title: games
+  #     url: games
+  #   - title: books
+  #     url: books
+  #   - title: stuff
+  #     url: stuff
+
+  - title: blog posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: see all...
+      show_more_url: archive.html
+
+- title: travelog
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: see all...
+      show_more_url: travelog-archive.html
 
 #  - title: tags
 #    post_list:

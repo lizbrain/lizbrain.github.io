@@ -2,7 +2,6 @@
 layout: post
 title: ranking of maine's italian sandwiches
 category: misc
-slug: maine-italians
 ---
 
 updated as i try more italians
