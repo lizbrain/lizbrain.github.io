@@ -14,6 +14,14 @@ so, here's an inventory of things i own that:
 - i would recommend to others
 - or i want to highlight for whatever reason.
 
+electronics:
+- [Microsoft Trackball Explorer](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1312&_nkw=microsoft+trackball+explorer&_sacat=3676)
+- [Apple AirPods (1st generation)](https://www.apple.com/airpods-2nd-generation/)
+- [Nintendo Switch - OLED Model](https://www.nintendo.com/switch/oled-model/)
+- [Insignia Powered Bookshelf Speakers](https://www.insigniaproducts.com/pdp/NS-HBTSS116/5283401)
+- [Audio-Technica Stereo Turntable AT-LP60X](https://www.audio-technica.com/en-us/at-lp60x)
+- [tablet/phone desk stand](https://www.amazon.com/gp/product/B06XKCSJDB/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&th=1)
+
 kitchen:
 - [Zorirushi Rice Cooker/Steamer](https://shop.zojirushi.com/products/nhs)
 - [KitchenAid stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/tilt-head-stand-mixers/p.classic-series-4.5-quart-tilt-head-stand-mixer.k45ssob.html?)
@@ -46,13 +54,6 @@ cat:
 - [CatGuru Food Dish](https://www.cat-guru.com/products/round-cat-dish?variant=16360367947842)
 - [metal litter scoop](https://www.amazon.com/gp/product/B07TQ5V9ZP/ref=ppx_yo_dt_b_asin_title_o07_s02?ie=UTF8&psc=1)
 - [Rosie Rat cat toy](https://www.mothernaturepetsupply.com/Rosie_rat)
-
-electronics:
-- [Apple AirPods (1st generation)](https://www.apple.com/airpods-2nd-generation/)
-- [Nintendo Switch - OLED Model](https://www.nintendo.com/switch/oled-model/)
-- [Insignia Powered Bookshelf Speakers](https://www.insigniaproducts.com/pdp/NS-HBTSS116/5283401)
-- [Audio-Technica Stereo Turntable AT-LP60X](https://www.audio-technica.com/en-us/at-lp60x)
-- [tablet/phone desk stand](https://www.amazon.com/gp/product/B06XKCSJDB/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&th=1)
 
 outside:
 - [Knog Oi Classic bike bell](https://www.knog.com/product/oi-classic-small/)
@@ -90,6 +91,7 @@ accessories:
 - [Casio Data Bank CA53W-1 watch](https://www.casio.com/us/watches/casio/product.CA-53W-1/)
 - [Leatherman Micra Multi-Tool](https://www.leatherman.com/micra-20.html)
 - [Fjallraven Ovik Card Holder](https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/ovik-card-holder?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a811784d-945e-4b35-b1d2-cb370f58859f_en-US&_t_hit.pos=4&_t_tags=andquerymatch%2clanguage%3aen%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F77308%3a%3a7323450091576)
+- [IKEA BJÄLVEN bathrobe](https://www.ikea.com/us/en/p/bjaelven-bathrobe-beige-60512979/)
 
 (casual) board games:
 - [Bananagrams](https://boardgamegeek.com/boardgame/27225/bananagrams)
@@ -97,10 +99,6 @@ accessories:
 - [Blokus](https://boardgamegeek.com/boardgame/2453/blokus)
 - [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 - [Sushi Go!](https://boardgamegeek.com/boardgame/133473/sushi-go)
-
-food:
-- [TAZO tea bags](https://www.patagonia.com/product/ultralight-black-hole-mini-hip-pack-1-liter/49447.html) (Earl Grey, Awake English Breakfast, Refresh Mint, Wild Sweet Orange)
-- [Celestial Seasonings Sleepytime Extra](https://celestialseasonings.com/products/sleepytime-extra-wellness-tea)
 
 ***
 

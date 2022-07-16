@@ -8,9 +8,6 @@ entries:
     - title: "itch.io"
       url: https://hackerlizard.itch.io/
 
-  - title: posts
-    post_list: true  
-
   - title: pages
     entries:
     - title: video games i've played
@@ -23,6 +20,16 @@ entries:
       url: maine-guide
     - title: stuff catalog
       url: stuff
+
+  - title: posts
+    post_list: true  
+
+  - title: blog posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: see all...
+      show_more_url: archive
 
   # - title: pages
   #   entries:
