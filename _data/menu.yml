@@ -21,9 +21,6 @@ entries:
     - title: stuff catalog
       url: stuff
 
-  - title: posts
-    post_list: true  
-
   - title: blog posts
     post_list:
       limit: 5
