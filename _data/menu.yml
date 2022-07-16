@@ -21,6 +21,8 @@ entries:
       url: v60
     - title: portland maine guide
       url: maine-guide
+    - title: stuff catalog
+      url: stuff
 
   # - title: pages
   #   entries:
