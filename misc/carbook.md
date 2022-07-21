@@ -1,11 +1,11 @@
 ---
 layout: page
-title: cats
+title: concept cars
 ---
-![img](images/car1.png)
+![img](images/car1.JPG)
 
-![img](images/car2.png)
+![img](images/car2.JPG)
 
-![img](images/car3.png)
+![img](images/car3.JPG)
 
-![img](images/car4.png)
+![img](images/car4.JPG)
