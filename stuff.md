@@ -108,5 +108,6 @@ categories that are excluded from this list due to being unquanitifable:
 - books, video games, other types of media
 - most clothing (wip...)
 - fridge magnets (i like having a lot)
+- recreation equipment 
 
 *amazon links avoided unless necessary
