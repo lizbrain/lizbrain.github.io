@@ -35,6 +35,11 @@ incomplete. i'm bad at keeping track
 - Cat Quest
 - Cubivore
 - Opoona
+- Stray
+- Rain World
+- Time On Frog Island
+- Cult of the Lamb
+- Shin chan: Me and the Professor on Summer Vacation -The Endless Seven-Day Journey-
 
 2021
 - moon: remix rpg adventure
