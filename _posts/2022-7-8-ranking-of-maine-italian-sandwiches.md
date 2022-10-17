@@ -11,3 +11,4 @@ updated as i try more italians
 3. [monte's](https://www.openstreetmap.org/node/7170757945) - third only because it's expensive, and not technically a classic italian
 4. [quality shop](https://www.openstreetmap.org/way/288931972)
 5. [punky's](https://www.openstreetmap.org/way/519782721)
+6. [corsetti's](https://www.openstreetmap.org/node/4412475547) - not a fan!!
