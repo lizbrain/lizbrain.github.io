@@ -4,6 +4,7 @@ title: item inventory
 category: misc
 slug: item-inventory
 ---
+remember [these](misc/buy)?
 
 in my ongoing quest to think critically about my possessions in order to figure out what i really need/use/enjoy/love and get rid of the rest, i've found it useful to keep a compendium of items that i have owned and used for a while that i've found particularly exceptional and recommendable.
 
@@ -107,7 +108,7 @@ categories that are excluded from this list due to being unquanitifable:
 - plates/bowls/mugs/silverware/etc., also all thrifted, and maintained in unspecific amounts
 - books, video games, other types of media
 - most clothing (wip...)
-- fridge magnets (i like having a lot)
+- [fridge magnets](misc/magnets) (i like having a lot)
 - recreation equipment 
 
 *amazon links avoided unless necessary
