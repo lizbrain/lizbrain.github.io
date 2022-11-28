@@ -22,18 +22,15 @@ electronics:
 - [Insignia Powered Bookshelf Speakers](https://www.insigniaproducts.com/pdp/NS-HBTSS116/5283401)
 - [Audio-Technica Stereo Turntable AT-LP60X](https://www.audio-technica.com/en-us/at-lp60x)
 - [tablet/phone desk stand](https://www.amazon.com/gp/product/B06XKCSJDB/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&th=1)
+- [JBL Flip speaker](https://www.jbl.com/bluetooth-speakers/FLIP-6-.html)
 
 kitchen:
 - [Zorirushi Rice Cooker/Steamer](https://shop.zojirushi.com/products/nhs)
 - [KitchenAid stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/tilt-head-stand-mixers/p.classic-series-4.5-quart-tilt-head-stand-mixer.k45ssob.html?)
 - [Oster Air Fryer Oven & Multi-Cooker](https://www.amazon.com/Oster-2086062-Fryer-Multi-Cooker-Black/dp/B07VTYHBGS/ref=asc_df_B07VTYHBGS/?tag=hyprod-20&linkCode=df0&hvadid=385178004433&hvpos=&hvnetw=g&hvrand=9536544361171914372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002575&hvtargid=pla-834277535453&psc=1&tag=&ref=&adgrpid=81511523994&hvpone=&hvptwo=&hvadid=385178004433&hvpos=&hvnetw=g&hvrand=9536544361171914372&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002575&hvtargid=pla-834277535453)
 - [LG NeoChef Microwave](https://www.lg.com/us/cooking-appliances/lg-LMC0975ST-counter-top-microwave-oven)
-- [Hario V60 Coffee Dripper 02](https://www.hario-usa.com/products/v60-plastic-coffee-dripper-02?variant=32782967210117)
-- [Hario V60 Paper Filter](https://www.hario-usa.com/collections/filters/products/copy-of-paper-filter-for-01-drippers?variant=32472393449605)
-- [Porlex Mini Grinder II](https://www.porlexgrinders.com/products/porlex-mini-grinder-ii)
-- [TIMEMORE Coffee Scale](https://www.beanground.com/timemore-black-mirror-review/)
 - [Linden Sweden Original Jonas Peeler](https://www.lindensweden.com/original-jonas-peeler)
-- [Our Place Always Pan](https://fromourplace.com/products/always-essential-cooking-pan?variant=32876763086923)
+- [Our Place Always Pan](https://fromourplace.com/products/always-essential-cooking-pan?variant=32876763086923) and [Our Place Perfect Pot](https://fromourplace.com/products/perfect-pot?variant=40457445212354)
 - [Muji Silicone Spatula](https://www.muji.us/products/silicone-spatula-l26cm-mcda0a) and [Muji Silicone Cooking Spoon](https://www.muji.us/products/silicone-cooking-spoon-l26cm-mcda0a?refSrc=7094568648894&nosto=productpage-nosto-4-copy)
 - [Muji bottle brush](https://www.muji.us/products/sponge-with-handle-1)
 - [KitchenAid Stainless Steel 3.5" Paring Knife](https://us.amazon.com/KitchenAid-KKFSS3PRST-Classic-Brushed-Stainless/dp/B01DKR4KKA)
@@ -42,13 +39,17 @@ kitchen:
 - [Snow Peak Kanpai Bottle 350ml](https://www.snowpeak.com/products/kanpai-bottle-350ml)
 - [Nalgene 32oz Wide Mouth Water Bottle](https://nalgene.com/product/32oz-wide-mouth-sustain/?attribute_pa_color=clear)
 
+coffee:
+- [Hario V60 Coffee Dripper 02](https://www.hario-usa.com/products/v60-plastic-coffee-dripper-02?variant=32782967210117)
+- [Hario V60 Paper Filter](https://www.hario-usa.com/collections/filters/products/copy-of-paper-filter-for-01-drippers?variant=32472393449605)
+- [Porlex Mini Grinder II](https://www.porlexgrinders.com/products/porlex-mini-grinder-ii)
+- [TIMEMORE Coffee Scale](https://www.beanground.com/timemore-black-mirror-review/)
+
 home:
 - [undated planner](https://www.amazon.com/gp/product/B07XX55Z9Q/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [Pilot G2 0.38 pen](http://pilotpen.us/brands/g2/g2/)
 - [Allex S-165F Office Scissors](https://www.jetpens.com/Allex-S-165F-Office-Scissors-Fluorine-Coating/pd/24880)
 - [Baggu Standard reusable bags](https://baggu.com/products/standard-baggu-black-2)
-- [Camphor Wood Aroma Diffuser](https://rikumo.com/collections/aromas/products/camphor-wood-aroma-diffuser)
-- [Chidoriya Hinoki Oil](https://rikumo.com/collections/aromas/products/chidoriya-hinoki-oil)
 
 cat:
 - [Modkat Flip Litter Box](https://modkat.com/products/flip-litter-box)
@@ -62,11 +63,13 @@ outside:
 - [Innova Cobra midrange disc golf disc](https://www.liv-cycling.com/us/rove-3-disc)
 - [Maine Atlas and Gazetteer](https://visitmaine.com/things-to-do/lighthouses-sightseeing/the-maine-atlas-and-gazetteer)
 - [Nocs Zoom Tube Monocular](https://www.nocsprovisions.com/products/zoom-tube-8x32-monocular-telescope?variant=39359500484686)
+- [La Sportiva Tarantulace climbing shoes](https://www.lasportivausa.com/tarantulace-womens.html)
 
 camping:
 - [Snow Peak Ti-Single 450 Cup](https://www.snowpeak.com/collections/drinkware/products/titanium-single-450-cup-mg-043)
 - [Snow Peak Trek Titanium Plate](https://www.snowpeak.com/collections/tableware/products/trek-titanium-plate-stw-002t) with [Snow Peak Trek Titanium Bowls](https://www.snowpeak.com/collections/tableware/products/titanium-dining-set) and [Snow Peak Titanium Spork](https://www.snowpeak.com/collections/tableware/products/titanium-spork)
 - [PocketRocket® 2 Stove](https://www.msrgear.com/stoves/canister-stoves/pocketrocket-2-stove/09884.html)
+- [Black Diamond Sprint 225 headlamp](https://www.rei.com/product/162945/black-diamond-sprint-225-headlamp)
 
 clothing (most items here readily available secondhand):
 
@@ -84,7 +87,7 @@ shoe:
 - hiking shoes: [Keen Jasper](https://www.keenfootwear.com/p/1004347-8.5.html?gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_campaign=us_201006_os_ne_xx21_multi_b_xx_l_OutsideShopping&utm_term=119156290316-pla-295800756202&utm_content=504675792197&gclid=CjwKCAjwiJqWBhBdEiwAtESPaHEbF6Yuaf1nA_RVOmT89NpsKXVaIqEwMq5JKKeX3GzDYQlBeSAAyhoC3LwQAvD_BwE)
 - running sneakers: [HOKA ONE ONE Clifton](https://www.hoka.com/en/us/womens-road/clifton-8/1119394.html)
 - zero-drop/minimalist sneakers: [Merrell Vapor Glove](https://www.merrell.com/US/en/vapor-glove-5/48727W.html?dwvar_48727W_color=J135372#cgid=vapor-glove&start=1)
-- sandals: [Teva Original Universal](https://www.teva.com/women-sandals/original-universal/1003987.html)
+- sandals: [Xero Shoes Genesis](https://xeroshoes.com/shop/genesis/genesis-women/)
 - sandals/camp shoes/lazy shoes/slippers: [Crocs Classic Clog](https://www.crocs.com/p/classic-clog/10001.html?cgid=footwear&cid=335#start=1)
 
 accessories:
