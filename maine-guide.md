@@ -11,6 +11,7 @@ coffee
 
 bakery/cafe/breakfast
 - Rose Foods
+- Belleville
 - Norimoto Bakery
 - Smalls
 
@@ -21,7 +22,6 @@ food
 - Slab
 - Terlingua
 - Jing Yan
-- The Highroller Lobster Co
 - Gelato Fiasco
 
 places
