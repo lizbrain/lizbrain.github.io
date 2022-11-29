@@ -7,6 +7,10 @@ incomplete. i'm bad at keeping track
 
 2022
 
+- Downwell
+- Pokemon Violet
+- Yooka-Laylee and the Impossible Lair
+- Golf Story
 - Slime Rancher: Plortable Edition
 - Pokemon Legends: Arceus
 - Tux and Fanny
