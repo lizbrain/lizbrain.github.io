@@ -4,6 +4,8 @@ title: books i've read
 ---
 
 2022
+- Secondhand: Travels in the New Global Garage Sale by Adam Minter
+- The Reason I Jump by Naoki Higashida
 - Oval by Elvia Wilk
 - Notes from a Small Island	by Bill Bryson
 - The Travelling Cat Chronicles by Hiro Arikawa

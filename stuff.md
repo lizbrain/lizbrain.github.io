@@ -13,7 +13,7 @@ so, here's an inventory of things i own that:
 - i consider a good investment
 - i would immediately repurchase if they broke, wore out, got lost, etc
 - i would recommend to others
-- or i want to highlight for whatever reason.
+- or i want to highlight for whatever reason
 
 electronics:
 - [Microsoft Trackball Explorer](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1312&_nkw=microsoft+trackball+explorer&_sacat=3676)
@@ -48,6 +48,7 @@ coffee:
 home:
 - [undated planner](https://www.amazon.com/gp/product/B07XX55Z9Q/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [Pilot G2 0.38 pen](http://pilotpen.us/brands/g2/g2/)
+- [Moleskine Classic Notebook](https://www.moleskine.com/en-us/shop/notebooks/the-original/classic-notebook-black-9788883701122.html)
 - [Allex S-165F Office Scissors](https://www.jetpens.com/Allex-S-165F-Office-Scissors-Fluorine-Coating/pd/24880)
 - [Baggu Standard reusable bags](https://baggu.com/products/standard-baggu-black-2)
 

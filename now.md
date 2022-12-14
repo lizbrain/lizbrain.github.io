@@ -11,10 +11,11 @@ i'm:
 - learning japanese with [bunpo](https://getbunpo.com/)
 - playing [video games](games)
 - waking up at 6am
+- running (mostly 5ks) and bouldering
 - making [pourover coffee](v60)
 - [getting rid](https://en.wikipedia.org/wiki/Minimalism#Minimalist_lifestyle) of my [stuff](stuff)
 - [feline growth and maintenance](cats)
 
 ***
 
-last updated 2022-07-08
+last updated 2022-12-08

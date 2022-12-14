@@ -7,6 +7,12 @@ incomplete. i'm bad at keeping track
 
 2022
 
+- Wobbledogs
+- Ooblets
+- Dorfromantik
+- LEGO Bricktales
+- Tunic
+- Sonic Frontiers
 - Downwell
 - Pokemon Violet
 - Yooka-Laylee and the Impossible Lair
