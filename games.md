@@ -5,8 +5,13 @@ title: games i've played
 
 incomplete. i'm bad at keeping track
 
-2022
+2023
+- Lil Gator Game
+- Two Point Campus
+- Onsen Master
 
+2022
+- Aka
 - Wobbledogs
 - Ooblets
 - Dorfromantik

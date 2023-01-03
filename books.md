@@ -3,7 +3,15 @@ layout: page
 title: books i've read
 ---
 
+2023
+- What I Talk About When I Talk About Running by Haruki Murakami
+
 2022
+- Ms Ice Sandwich by Meiko Kawakami
+- The Reason I Jump by Naoki Higashida
+- The Year of Less by Cait Flanders
+- The Lonesome Bodybuilder by Yukiko Motoya
+- The Ring by Koji Suzuki
 - Secondhand: Travels in the New Global Garage Sale by Adam Minter
 - The Reason I Jump by Naoki Higashida
 - Oval by Elvia Wilk

@@ -10,10 +10,9 @@ coffee
 - Speckled Ax
 
 bakery/cafe/breakfast
-- Rose Foods
 - Belleville
+- Rose Foods
 - Norimoto Bakery
-- Smalls
 
 food
 - Mami
@@ -22,7 +21,7 @@ food
 - Slab
 - Terlingua
 - Jing Yan
-- Gelato Fiasco
+- Gelato Fiasco (I know it's dessert, whatever)
 
 places
 - Portland Museum of Art
