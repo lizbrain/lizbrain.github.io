@@ -3,7 +3,7 @@ layout: page
 title: games i've played
 ---
 
-incomplete. i'm bad at keeping track
+incomplete. i'm bad at keeping track.
 
 2023
 - Lil Gator Game
