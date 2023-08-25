@@ -10,9 +10,11 @@ coffee
 - Speckled Ax
 
 bakery/cafe/breakfast
-- Belleville
 - Rose Foods
+- Onggi
 - Norimoto Bakery
+- Forage
+- Belleville
 
 food
 - Mami
@@ -21,7 +23,7 @@ food
 - Slab
 - Terlingua
 - Jing Yan
-- Gelato Fiasco (I know it's dessert, whatever)
+- Gelato Fiasco (dessert, whatever)
 
 places
 - Portland Museum of Art
@@ -35,7 +37,6 @@ places
 - Mackworth Island
 - Maine Audubon at Gilsland Farm
 - Wolfe's Neck Preserve
-
 
 "i'm staying for a while"
 

@@ -1,8 +1,6 @@
 entries:
   - title: me
     entries:
-    - title: now
-      url: now
     - title: github
       url: https://github.com/hackerlizard
     - title: "itch.io"
@@ -12,16 +10,10 @@ entries:
 
   - title: pages
     entries:
-    - title: video games i've played
-      url: games
-    - title: books i've read
-      url: books
     - title: coffee recipe
       url: v60
     - title: portland maine guide
       url: maine-guide
-    - title: stuff catalog
-      url: stuff
 
   - title: blog
     post_list:
