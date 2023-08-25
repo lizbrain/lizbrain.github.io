@@ -1,6 +1,8 @@
 entries:
   - title: me
     entries:
+    - title: linkedin
+      url: https://www.linkedin.com/in/lizdemin/
     - title: github
       url: https://github.com/hackerlizard
     - title: "itch.io"

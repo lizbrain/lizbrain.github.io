@@ -17,7 +17,7 @@ so, here's an inventory of things i own that:
 
 electronics:
 - [Microsoft Trackball Explorer](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1312&_nkw=microsoft+trackball+explorer&_sacat=3676)
-- [Apple AirPods Max](https://www.apple.com/airpods-2nd-generation/) and [Apple AirPods Pro](https://www.apple.com/airpods-2nd-generation/)
+- [Apple AirPods Max]() and [Apple AirPods Pro]()
 - [Nintendo Switch - OLED Model](https://www.nintendo.com/switch/oled-model/)
 - [Insignia Powered Bookshelf Speakers](https://www.insigniaproducts.com/pdp/NS-HBTSS116/5283401)
 - [Audio-Technica Stereo Turntable AT-LP60X](https://www.audio-technica.com/en-us/at-lp60x)
@@ -43,6 +43,8 @@ coffee:
 - [Hario V60 Paper Filter](https://www.hario-usa.com/collections/filters/products/copy-of-paper-filter-for-01-drippers?variant=32472393449605)
 - [Porlex Mini Grinder II](https://www.porlexgrinders.com/products/porlex-mini-grinder-ii)
 - [TIMEMORE Coffee Scale](https://www.beanground.com/timemore-black-mirror-review/)
+- [Fellow Ode]()
+- [Fellow Stagg]()
 
 home:
 - [undated planner](https://www.amazon.com/gp/product/B07XX55Z9Q/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
@@ -63,7 +65,6 @@ outside:
 - [Innova Cobra midrange disc golf disc](https://www.liv-cycling.com/us/rove-3-disc)
 - [Maine Atlas and Gazetteer](https://visitmaine.com/things-to-do/lighthouses-sightseeing/the-maine-atlas-and-gazetteer)
 - [Nocs Zoom Tube Monocular](https://www.nocsprovisions.com/products/zoom-tube-8x32-monocular-telescope?variant=39359500484686)
-- [La Sportiva Tarantulace climbing shoes](https://www.lasportivausa.com/tarantulace-womens.html)
 
 camping:
 - [Snow Peak Ti-Single 450 Cup](https://www.snowpeak.com/collections/drinkware/products/titanium-single-450-cup-mg-043)
@@ -96,13 +97,6 @@ accessories:
 - [Leatherman Micra Multi-Tool](https://www.leatherman.com/micra-20.html)
 - [Fjallraven Ovik Card Holder](https://www.fjallraven.com/us/en-us/bags-gear/accessories/travel-accessories/ovik-card-holder?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_a811784d-945e-4b35-b1d2-cb370f58859f_en-US&_t_hit.pos=4&_t_tags=andquerymatch%2clanguage%3aen%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F77308%3a%3a7323450091576)
 - [IKEA BJÄLVEN bathrobe](https://www.ikea.com/us/en/p/bjaelven-bathrobe-beige-60512979/)
-
-(casual) board games:
-- [Bananagrams](https://boardgamegeek.com/boardgame/27225/bananagrams)
-- [Qwirkle](https://boardgamegeek.com/boardgame/25669/qwirkle)
-- [Blokus](https://boardgamegeek.com/boardgame/2453/blokus)
-- [Coup](https://boardgamegeek.com/boardgame/131357/coup)
-- [Sushi Go!](https://boardgamegeek.com/boardgame/133473/sushi-go)
 
 ***
 
